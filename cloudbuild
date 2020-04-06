@@ -1,4 +1,3 @@
 steps:
 - name: 'centos'
   args: ['echo','hello-world']
-
